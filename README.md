@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [java测试时加上@RunWith](http://polargarden.club:8080/articles/2019/09/13/1568369269088.html)
+* [Invalid bound statement (not found) 解决办法](http://polargarden.club:8080/articles/2019/09/13/1568368577755.html)
 * [ResponseEntity实现文件下载](http://polargarden.club:8080/articles/2019/09/12/1568265940499.html)
 * [出现NoSuchBeanDefinitionException 的解决思路](http://polargarden.club:8080/articles/2019/09/11/1568186002514.html)
 * [私有云盘折腾记](http://polargarden.club:8080/articles/2019/09/06/1567737375721.html)
