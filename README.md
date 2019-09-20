@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [SpringBoot集成Redis](http://polargarden.club:8080/articles/2019/09/19/1568893291984.html)
+* [SpringBoot：热部署插件spring-boot-devtools](http://polargarden.club:8080/articles/2019/09/19/1568881388680.html)
 * [java测试时加上@RunWith](http://polargarden.club:8080/articles/2019/09/13/1568369269088.html)
 * [Invalid bound statement (not found) 解决办法](http://polargarden.club:8080/articles/2019/09/13/1568368577755.html)
 * [ResponseEntity实现文件下载](http://polargarden.club:8080/articles/2019/09/12/1568265940499.html)
